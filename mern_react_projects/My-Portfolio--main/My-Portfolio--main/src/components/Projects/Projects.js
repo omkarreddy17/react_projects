@@ -14,20 +14,7 @@ import 'animate.css/animate.min.css';
 
 // Web projects
 const cardItem = [
-  {
-    link: 'https://math-operations-calculator-83ib.vercel.app/',
-    title: 'Calculator using React',
-    techStack: 'Tech Stack: React js',
-    desc: 'It is a calculator which is made by using react js.It can various mathematical operations.',
-    image: calculator
-  },
-  {
-    link: 'https://github.com/Ashfiya786/online-chess-game',
-    title: 'Realtime Online Chess',
-    techStack: 'Tech Stack- ReactJs, NodeJS',
-    desc: 'Play chess online and enjoy your game',
-    image: chess
-  },
+  
   {
     link: 'https://jansewa.vercel.app/',
     title: '  Jan Sewa',
@@ -35,20 +22,7 @@ const cardItem = [
     desc: 'JanSewa is a unique e-job portal designed to directly connect labourers such as plumbers, electricians, carpenters, and other similar professionals with job employers. ',
     image: jansewa
   },
-  {
-    link: 'https://color-picker-using-react-ea9h93xye-ashfiya786.vercel.app/',
-    title: 'Color Picker',
-    techStack: 'Tech Stack- React',
-    desc: 'you can pick any color whatever you want with the help of this color picker',
-    image: colorpicker
-  },
-  {
-    link: 'https://age-calculator-using-react-ovej-hrk4s3u61-ashfiya786.vercel.app/',
-    title: 'Age-Calculator',
-    techStack: 'Tech Stack: React js',
-    desc: 'It will calculate your age according to the date of birth entered by you.',
-    image: age
-  },
+  
   {
     link: 'https://the-black-hats.github.io/covid-19-resources/',
     title: 'COVID-19 Resources',
@@ -63,13 +37,7 @@ const cardItem = [
     desc: ' A software that provides doctors to create and manage staff, prescriptions, patients, drugs, advice, reports, appointments and many more.',
     image: ths
   },
-  {
-    link: 'https://ashfiya786.github.io/sports-celebrity-image-classification/',
-    title: 'Image Classification',
-    techStack: 'Tech Stack- HTML,CSS,JS,Numpy and OpenCV,Matplotlib & Seaborn,Python flask',
-    desc: 'This is data science and machine learning project whose UI is made by using web development.Here we can classify images of five sports celebrity using SVM.',
-    image: ml
-  },
+ 
 ];
 
 export default function Projects() {

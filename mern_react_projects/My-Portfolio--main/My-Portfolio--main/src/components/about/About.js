@@ -19,7 +19,7 @@ class About extends Component {
           <h2 className={classes.heading}>Who Am I?</h2>
           <div className={classes.About}>
             <p>
-              My name is <b>ASHFIYA KHAN</b> and I am currently pursuing B.Tech in {' '}
+              My name is <b>Omkar</b> and I am currently pursuing Int.MTech in {' '}
               <b>Computer Science Engineering with specialization in Health Informatics</b> from
               <b>
                 {' '}
@@ -27,7 +27,7 @@ class About extends Component {
                   VIT Bhopal University
                 </a>
               </b>
-              . I belongs to Ratlam district of Madhya Pradesh.I am much interested in
+              . I belongs to Latur Maharastra.I am much interested in
               developing new things which excite me a lot.My goal is to become a skilled full stack developer :)
             </p>
             <p className={classes.br}>

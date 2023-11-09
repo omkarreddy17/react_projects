@@ -60,8 +60,8 @@ class Education extends Component {
                             Undergraduation at VIT Bhopal University <span>2020-2024</span>
                           </h2>
                           <p>
-                            B.Tech in CSE (Computer Science and Engineering) with specialization in Health Informatics
-                            from <a href='https://vitbhopal.ac.in/'>VIT BHOPAL</a> with current cgpa as 8.82
+                            M.Tech in CSE (Computer Science and Engineering) with specialization in AI
+                            from <a href='https://vitbhopal.ac.in/'>VIT BHOPAL</a> 
                           </p>
                         </div>
                       </article>
@@ -82,7 +82,7 @@ class Education extends Component {
                             Higher Education 
                           </h2>
                           <p>
-                            I have completed my 10<sup>th</sup>(2018) and 12<sup>th</sup>(2020) from Guru RamDas Public Senior Secondary High School,Ratlam (MP).I got state merit in class 10<sup>th</sup> with 97.4% and First position in District merit in class 12<sup>th</sup> with 95.8%.{' '}
+                            I have completed my 10<sup>th</sup>(2018) and 12<sup>th</sup>(2020) from MGV School, Latur (MP).I got state merit in class 10<sup>th</sup> with 90.4% and in class 12<sup>th</sup> with 70.8%.{' '}
                           </p>
                         </div>
                       </article>

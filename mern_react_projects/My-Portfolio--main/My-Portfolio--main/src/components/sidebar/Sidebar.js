@@ -36,7 +36,7 @@ class Sidebar extends Component {
             target='_blank'
             className='fa fa-envelope'
           ></a>{' '}
-          ashfiyalhan786@gmail.com
+          omkarmachpalle@gmail.com
         </p>
 
         <ul className='sidebar-nav'>
@@ -75,7 +75,7 @@ class Sidebar extends Component {
             </li>
             <li className='sidebar-nav-icons'>
               <a
-                href='https://www.linkedin.com/in/ashfiya-khan-6b3621209/'
+                href='https://www.linkedin.com/in/'
                 rel='opener noreferrer'
                 target='_blank'
                 className='fa fas fa-linkedin fa-lg'
@@ -83,7 +83,7 @@ class Sidebar extends Component {
             </li>
             <li className='sidebar-nav-icons'>
               <a
-                href='https://twitter.com/Ashfiya6261'
+                href='https://twitter.com/'
                 rel='opener noreferrer'
                 target='_blank'
                 className='fa fas fa-twitter fa-lg'
@@ -91,7 +91,7 @@ class Sidebar extends Component {
             </li>
             <li className='sidebar-nav-icons'>
               <a
-                href='https://www.instagram.com/7864_ashi/'
+                href='https://www.instagram.com/'
                 rel='opener noreferrer'
                 target='_blank'
                 className='fa fas fa-instagram fa-lg'
@@ -99,7 +99,7 @@ class Sidebar extends Component {
             </li>
             <li className='sidebar-nav-icons'>
               <a
-                href='mailto:ashfiyalhan786@gmail.com'
+                href='mailto:ommachpalle@gmail.com'
                 rel='opener noreferrer'
                 target='_blank'
                 className='fa fas fa-envelope fa-lg'
